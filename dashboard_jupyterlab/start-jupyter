@@ -1,0 +1,11 @@
+#!/bin/bash
+
+    printf  "\n==================  "
+    printf  "\n Start JupyterLab  \n"
+    printf  "==================  \n\n"
+    #add course name as variable to be used
+    bash -c "jupyter lab"
+
+
+
+

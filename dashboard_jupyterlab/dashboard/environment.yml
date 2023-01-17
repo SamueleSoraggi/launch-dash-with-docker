@@ -1,0 +1,17 @@
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+  - plotly
+dependencies:
+  - pandas
+  - networkx
+  - plotly
+  - dash
+  - numpy
+  - matplotlib
+  - dash-bootstrap-components
+  - dash-core-components
+  - dash-html-components
+  - jupyter-dash
+  - ipykernel
